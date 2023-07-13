@@ -40,20 +40,30 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 
 > Como desafio Extra me tome la tarea de crear otro tipo de conversor, en este caso realice un `Conversor de Segundos`, el cual trae el equivalente de segundos a:
   ```
-	  -Minutos
-	  -Horas
-	  -Dias
-	  -Semanas
-	  -Meses
-	  -Años
+	  -Minutos.
+	  -Horas.
+	  -Dias.
+	  -Semanas.
+	  -Meses.
+	  -Años.
 
   ```
 
-Añadidos:
+## Añadidos:
 
-## Consumo de api Exchangered para la conversion de divisas
+> Consumo de api Exchangered para la conversion de divisas.
 
-## Interfaz grafica con java.swing + windowBuilder de Eclipse IDE
+> Interfaz grafica con java.swing + windowBuilder de Eclipse IDE.
 
-# Imagenes:
+## Imagenes:
+
+> 1. Conversor Divisas
+
+![Imagen ilustrativa de la interfaz del Conversor de divisas.](src/co/conversor
+/images/ConversorDivisas.png)
+
+
+
+
+> 3. Conversor Segundos 
 
