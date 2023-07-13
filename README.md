@@ -56,8 +56,9 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 > Interfaz grafica con java.swing + windowBuilder de Eclipse IDE.
 
 ## Imagenes:
-
-> 1. Conversor Divisas
+1.
+> 1. Conversor Divisas:
+> 2. 
 ![Imagen ilustrativa de la interfaz del Conversor de divisas.](Conversor/src/co/conversor/images/ConversorDivisas.png)
 
 
