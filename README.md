@@ -51,9 +51,11 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 
 ## Añadidos:
 
-> Consumo de api Exchangered para la conversion de divisas.
+> Consumo de api Exchangered para la conversion de divisas; para el correcto funcionamiento de la aplicacion, se debe tener conexion a internet.
 
 > Interfaz grafica con java.swing + windowBuilder de Eclipse IDE.
+
+> Para el correcto funcionamiento de la aplicacion, se debe tener instalado el JDK de java, ya que se utiliza el mismo para la ejecucion de la aplicacion.
 
 ## Imagenes:
 
