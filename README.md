@@ -56,13 +56,26 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 > Interfaz grafica con java.swing + windowBuilder de Eclipse IDE.
 
 ## Imagenes:
-1.
+
 > 1. Conversor Divisas:
-> 2. 
+
 ![Imagen ilustrativa de la interfaz del Conversor de divisas.](Conversor/src/co/conversor/images/ConversorDivisas.png)
 
+> 2. Conversor de Divisas Gif
+
+![Imagen ilustrativa de la interfaz del Conversor de divisas.](Conversor/src/co/conversor/images/Divisas.gif)
+
+
+> 3. Conversor de Segundos:
+
+![Imagen ilustrativa de la interfaz del Conversor de divisas.](Conversor/src/co/conversor/images/ConversorSegundos.png)
+
+
+> 4. Conversor de segundos gif:
+
+![Imagen ilustrativa de la interfaz del Conversor de divisas.](Conversor/src/co/conversor/images/Segundos.gif)
 
 
 
-> 3. Conversor Segundos 
+
 
