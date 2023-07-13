@@ -12,18 +12,18 @@ En esta oportunidad, a los aprendices de Backend se nos solicitó crear un conve
 Requisitos:
 
 El convertidor de moneda debe:
-		```
+```		
   - Convertir de la moneda de tu país a Dólar
   - Convertir de la moneda de tu país  a Euros
   - Convertir de la moneda de tu país  a Libras Esterlinas
   - Convertir de la moneda de tu país  a Yen Japonés
   - Convertir de la moneda de tu país  a Won sul-coreano
-    
-   ```
+   
+  ``` 
+   
 
 Recordando que también debe ser posible convertir inversamente, es decir:
-
-    ```
+```
     - Convertir de Dólar a la moneda de tu país
     - Convertir de Euros a la moneda de tu país
     - Convertir de Libras Esterlinas a la moneda de tu país
@@ -40,12 +40,12 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 
 > Como desafio Extra me tome la tarea de crear otro tipo de conversor, en este caso realice un `Conversor de Segundos`, el cual trae el equivalente de segundos a:
   ```
-  -Minutos
-  -Horas
-  -Dias
-  -Semanas
-  -Meses
-  -Años
+	  -Minutos
+	  -Horas
+	  -Dias
+	  -Semanas
+	  -Meses
+	  -Años
 
   ```
 
