@@ -1,8 +1,8 @@
 # ChallengeConversor
 ## Primer Challenge de la especialización Backend java de Oracle ONE
-##Challenge ONE - G5
+## Challenge ONE - G5
 
-#Conversor
+# Conversor
 Descripción:
 
 ¡Primer desafío del Challenge Java!
@@ -34,7 +34,7 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 
 > En este caso la moneda de mi pais es COP (Pesos Colombianos).
 
-#Extras:
+# Extras:
 
 Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo convertir divisas, ¿tal vez pueda añadir a mi programa otros tipos de conversiones?
 
@@ -51,8 +51,9 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 
 Añadidos:
 
-##Consumo de api Exchangered para la conversion de divisas
+## Consumo de api Exchangered para la conversion de divisas
 
-##Interfaz grafica con java.swing + windowBuilder de Eclipse IDE
+## Interfaz grafica con java.swing + windowBuilder de Eclipse IDE
 
-#Imagenes:
+# Imagenes:
+
