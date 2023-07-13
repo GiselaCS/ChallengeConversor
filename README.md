@@ -58,7 +58,7 @@ Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo conve
 ## Imagenes:
 
 > 1. Conversor Divisas
-![Imagen ilustrativa de la interfaz del Conversor de divisas.](src/co/conversor/images/ConversorDivisas.png)
+![Imagen ilustrativa de la interfaz del Conversor de divisas.](Conversor/src/co/conversor/images/ConversorDivisas.png)
 
 
 
